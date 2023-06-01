@@ -1,6 +1,6 @@
 header{
     font-family: 'Inter', sans-serif;
-    font-size: 40px;
+    font-size: 50px;
     font-weight: bold;
     box-shadow: 0px 3px 3px;
     padding-left: 30px;
@@ -10,17 +10,17 @@ header{
 }
 
 .letter2{
-    color: skyblue;
+    color: rgb(14, 85, 239);
 }
 .maincontainer{
    display: flex;
    flex-wrap: wrap;
    gap: 70px;
    padding-left: 60px;
- background-color: lightgray;
+ background-color:  rgb(243, 240, 240);
 }
 .workcontainer{
-    background-color: lightgrey;
+    background-color:  rgb(243, 240, 240);
     
 }
 
